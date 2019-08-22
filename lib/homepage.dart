@@ -196,7 +196,7 @@ class _HomePageState extends State<HomePage> {
               new Marker(
                 width: 80.0,
                 height: 80.0,
-                point: new LatLng(51.5, -0.09),
+                point: new LatLng(28.538336, -81.379234),
                 builder: (ctx) => new Container(
                       child: IconButton(
                         icon: Icon(Icons.location_on),
