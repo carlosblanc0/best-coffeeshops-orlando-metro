@@ -4,6 +4,34 @@ import 'package:flutter_map/flutter_map.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:latlong/latlong.dart';
 
+Widget _boxes(String _image, double lat, double long, String restaurantName) {
+  return GestureDetector(
+    onTap: () {},
+  );
+}
+
+Widget _buildContainer() {
+  return Align(
+    alignment: Alignment.bottomLeft,
+    child: Container(
+      margin: EdgeInsets.symmetric(vertical: 20.0),
+      height: 150.0,
+      child: ListView(
+        scrollDirection: Axis.horizontal,
+        children: <Widget>[
+          SizedBox(
+            width: 10.0,
+          ),
+          Padding(
+            padding: const EdgeInsets.all(8.0),
+            // to do -> add _boxes
+          ),
+        ],
+      ),
+    ),
+  );
+}
+
 class HomePage extends StatefulWidget {
   @override
   _HomePageState createState() => new _HomePageState();
