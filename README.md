@@ -1,16 +1,38 @@
-# best_coffeeshops_orlando_metro
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="https://www.codemate.com/wp-content/uploads/2016/02/flutter-logo-round.png" alt="Project logo"></a>
+</p>
 
-A new Flutter project.
+<h3 align="center">Best Coffee Shops in the Orlando Metro Area</h3>
 
-## Getting Started
+<div align="center">
 
-This project is a starting point for a Flutter application.
+  [![Status](https://img.shields.io/badge/status-active-success.svg)]()
+  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
-A few resources to get you started if this is your first Flutter project:
+</div>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+---
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<p align="center"> Know Your Next Destination In Terms of Coffee if You Live in Central Florida.
+    <br> 
+</p>
+
+## 📝 Table of Contents
+- [About](#about)
+- [Usage](#usage)
+- [Authors](#authors)
+- [Overview](#solutionsoverview)
+
+## 🧐 About <a name = "about"></a>
+For this project, I decided to test out and see how easy it would be to use MapBox API for maps integration and whatnot. This repository contains non-sensitive code from one of my pet projects titled "best-coffeeshops-orlando-metro". 
+
+## 🎈 Usage <a name="usage"></a>
+Feel free to use (or tweak it) for your own use. You will only need to copy and paste it onto a newly created Flutter project (don't forget to fork it!). Pro-tip: edit the <b>pubsepc.yaml</b> file on your project so that is affects the images and/or additional files you might want to implement on your own project.
+
+## ✍️  Authors <a name = "authors"></a>
+- [@carloswhite](https://github.com/carloswhite) - Idea & added work
+
+## 📈 Overview
+<a href="https://i.imgur.com/cIlZxGa.png" title="source: imgur.com" /></a>
+
