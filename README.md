@@ -34,5 +34,4 @@ Feel free to use (or tweak it) for your own use. You will only need to copy and 
 - [@carloswhite](https://github.com/carloswhite) - Idea & added work
 
 ## 📈 Overview
-<a href="https://i.imgur.com/cIlZxGa.png" title="source: imgur.com" /></a>
-
+<a href="https://i.imgur.com/cIlZxGa.png"><img src="https://i.imgur.com/cIlZxGa.png" title="source: imgur.com" /></a>
