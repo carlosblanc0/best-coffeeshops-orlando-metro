@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://www.codemate.com/wp-content/uploads/2016/02/flutter-logo-round.png" alt="Project logo"></a>
+ <img width=200px height=200px src="https://i.ibb.co/YN3rZnt/logo-3x.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Best Coffee Shops in the Orlando Metro Area</h3>
